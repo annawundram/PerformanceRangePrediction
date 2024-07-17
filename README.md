@@ -1,4 +1,4 @@
-# PerformanceRangePrediction
+# Conformalized Performance Range Prediction Code
 Code for "Conformal Performance Range Prediction for Segmentation Output Quality Control" accepted to MICCAI UNSURE 2024.
 
 ## Data
